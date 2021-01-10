@@ -1,4 +1,4 @@
-
+// npx chromatic --project-token=ew302i4gpzs
 import React from 'react';
 import { Provider } from 'react-redux';
 import store from './lib/redux';
